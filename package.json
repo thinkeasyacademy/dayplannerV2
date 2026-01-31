@@ -1,0 +1,13 @@
+
+{
+  "name": "think-easy-academy-planner",
+  "version": "1.0.0",
+  "description": "A high-fidelity task management application inspired by Taskito.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [],
+  "author": "Think Easy Academy",
+  "license": "MIT"
+}
