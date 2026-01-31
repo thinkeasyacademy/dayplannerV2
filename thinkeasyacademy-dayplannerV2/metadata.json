@@ -1,0 +1,10 @@
+
+{
+  "name": "Think Easy Academy Day Planner",
+  "description": "A high-fidelity task management application inspired by Taskito, featuring a unique vertical timeline, project boards, and unplanned task management.",
+  "requestFramePermissions": [
+    "notifications",
+    "vibrate",
+    "audio"
+  ]
+}
